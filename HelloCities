@@ -1,6 +1,0 @@
-public class HelloCities {
-    public static void main(String[] args) {
-        System.out.println("Nagercoil"); 
-	System.out.println("Chennai"); 
-    }
-}
