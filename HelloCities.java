@@ -10,6 +10,7 @@ public class HelloCities {
 	public static void main(String[] args) throws InterruptedException {
 		System.out.println("Nagercoil");
 		System.out.println("Chennai");
+		System.out.println("Bangalore");
 		// // TODO Auto-generated method stub
 		// System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\Chrome\\chromedriver.exe");
 		// WebDriver driver = new ChromeDriver();
