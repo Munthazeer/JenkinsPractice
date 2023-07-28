@@ -11,7 +11,7 @@ public class HelloCities {
 		System.out.println("Nagercoil");
 		System.out.println("Chennai");
 		System.out.println("Bangalore");
-		System.out.println("Coimbatore");
+		//System.out.println("Coimbatore");
 		// // TODO Auto-generated method stub
 		// System.setProperty("webdriver.chrome.driver", "E:\\Selenium\\Chrome\\chromedriver.exe");
 		// WebDriver driver = new ChromeDriver();
